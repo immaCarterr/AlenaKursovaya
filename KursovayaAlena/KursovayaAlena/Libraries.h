@@ -1,0 +1,9 @@
+#pragma once
+#include <iostream>
+#include <iomanip>
+#include <Windows.h>
+#include <string>
+#include <fstream>
+#include <deque>
+#include <sstream>
+#include <conio.h>

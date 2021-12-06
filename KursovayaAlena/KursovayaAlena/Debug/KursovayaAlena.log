@@ -1,0 +1,59 @@
+﻿  Main.cpp
+C:\Users\chirv\source\repos\KursovayaAlena\KursovayaAlena\Functions.h(58,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\KursovayaAlena\KursovayaAlena\Functions.h(65,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\KursovayaAlena\KursovayaAlena\Functions.h(495,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\KursovayaAlena\KursovayaAlena\Functions.h(735,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\KursovayaAlena\KursovayaAlena\Main.cpp(105): message : выполняется компиляция ссылки на экземпляр шаблон функции "void ShowData<Teacher>(Type,Employee *,std::string,int)"
+          with
+          [
+              Type=Teacher
+          ]
+C:\Users\chirv\source\repos\KursovayaAlena\KursovayaAlena\Functions.h(737,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\chirv\source\repos\KursovayaAlena\KursovayaAlena\Functions.h(738,11): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\KursovayaAlena\KursovayaAlena\Functions.h(740,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\KursovayaAlena\KursovayaAlena\Functions.h(775,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\KursovayaAlena\KursovayaAlena\Functions.h(623,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\KursovayaAlena\KursovayaAlena\Main.cpp(106): message : выполняется компиляция ссылки на экземпляр шаблон функции "void RedactData<Teacher>(Type,Employee *,std::string)"
+          with
+          [
+              Type=Teacher
+          ]
+C:\Users\chirv\source\repos\KursovayaAlena\KursovayaAlena\Functions.h(639,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\KursovayaAlena\KursovayaAlena\Functions.h(648,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\KursovayaAlena\KursovayaAlena\Functions.h(683,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\KursovayaAlena\KursovayaAlena\Main.cpp(148): message : выполняется компиляция ссылки на экземпляр шаблон функции "void DeleteData<Teacher>(Type,Employee *,std::string)"
+          with
+          [
+              Type=Teacher
+          ]
+C:\Users\chirv\source\repos\KursovayaAlena\KursovayaAlena\Functions.h(693,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\KursovayaAlena\KursovayaAlena\Functions.h(702,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\KursovayaAlena\KursovayaAlena\Functions.h(832,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\KursovayaAlena\KursovayaAlena\Main.cpp(246): message : выполняется компиляция ссылки на экземпляр шаблон функции "void FindData<Teacher>(Type,Employee *,std::string)"
+          with
+          [
+              Type=Teacher
+          ]
+C:\Users\chirv\source\repos\KursovayaAlena\KursovayaAlena\Functions.h(842,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\KursovayaAlena\KursovayaAlena\Functions.h(994,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\KursovayaAlena\KursovayaAlena\Main.cpp(271): message : выполняется компиляция ссылки на экземпляр шаблон функции "void FilterSalary<Teacher>(Type,Employee *,std::string)"
+          with
+          [
+              Type=Teacher
+          ]
+C:\Users\chirv\source\repos\KursovayaAlena\KursovayaAlena\Functions.h(1012,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\KursovayaAlena\KursovayaAlena\Functions.h(922,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\KursovayaAlena\KursovayaAlena\Main.cpp(441): message : выполняется компиляция ссылки на экземпляр шаблон функции "void GetSalary<Teacher>(Type,Employee *,std::string)"
+          with
+          [
+              Type=Teacher
+          ]
+C:\Users\chirv\source\repos\KursovayaAlena\KursovayaAlena\Functions.h(939,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\KursovayaAlena\KursovayaAlena\Functions.h(1061,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\KursovayaAlena\KursovayaAlena\Main.cpp(466): message : выполняется компиляция ссылки на экземпляр шаблон функции "void GetPrem<Teacher>(Type,Employee *,std::string)"
+          with
+          [
+              Type=Teacher
+          ]
+C:\Users\chirv\source\repos\KursovayaAlena\KursovayaAlena\Functions.h(1081,22): warning C4018: <: несоответствие типов со знаком и без знака
+  KursovayaAlena.vcxproj -> C:\Users\chirv\source\repos\KursovayaAlena\Debug\KursovayaAlena.exe
